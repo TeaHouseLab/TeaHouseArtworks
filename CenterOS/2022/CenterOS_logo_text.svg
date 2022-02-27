@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480mm"
+   height="78mm"
+   viewBox="0 0 480 78"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo_text.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     scale-x="78"
+     width="480mm"
+     inkscape:zoom="0.4680939"
+     inkscape:cx="863.0747"
+     inkscape:cy="148.47448"
+     inkscape:window-width="1920"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient20528">
+      <stop
+         style="stop-color:#55cdfc;stop-opacity:1"
+         offset="0"
+         id="stop20524" />
+      <stop
+         style="stop-color:#f7a8b8;stop-opacity:1"
+         offset="1"
+         id="stop20526" />
+    </linearGradient>
+    <rect
+       x="3.0920884"
+       y="18.312481"
+       width="1798.0383"
+       height="259.72512"
+       id="rect16160" />
+    <rect
+       x="8.1349541"
+       y="8.711412"
+       width="1806.3446"
+       height="286.15013"
+       id="rect8756" />
+    <rect
+       x="1.9890797"
+       y="9.229846"
+       width="1805.9739"
+       height="271.47477"
+       id="rect3598" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20528"
+       id="linearGradient20530"
+       x1="-65.265121"
+       y1="145.10121"
+       x2="649.79767"
+       y2="146.11227"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3596"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3598);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8754"
+       style="font-style:normal;font-weight:normal;font-size:266.667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect8756);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="8.1347656"
+         y="562.86166"
+         id="tspan21857"><tspan
+           style="font-size:200px"
+           id="tspan21855">c</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.353661"
+       y="50.716267"
+       id="text12614"><tspan
+         sodipodi:role="line"
+         id="tspan12612"
+         style="stroke-width:0.264583"
+         x="38.353661"
+         y="50.716267" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.41079139,0,0,0.41079139,62.885304,-18.882355)"
+       id="text16158"
+       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16160);fill:url(#linearGradient20530);fill-opacity:1;stroke:none"><tspan
+         x="3.0917969"
+         y="211.2725"
+         id="tspan21859">CenterOS</tspan></text>
+  </g>
+</svg>
