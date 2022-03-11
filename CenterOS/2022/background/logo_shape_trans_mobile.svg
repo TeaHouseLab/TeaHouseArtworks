@@ -7,9 +7,9 @@
    viewBox="0 0 1079.1769 1920.3542"
    version="1.1"
    id="svg5"
-   sodipodi:docname="logo_shape_mobile.svg"
+   sodipodi:docname="logo_shape_trans_mobile.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   inkscape:export-filename="/media/tsingkwai/repo/code/TeaHouseLab/TeaHouseArtworks/CenterOS/2022/background/logo_shape_mobile.png"
+   inkscape:export-filename="/media/tsingkwai/repo/code/TeaHouseLab/TeaHouseArtworks/CenterOS/2022/background/logo_shape_trans_mobile.png"
    inkscape:export-xdpi="95.999992"
    inkscape:export-ydpi="95.999992"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -32,9 +32,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showborder="true"
-     inkscape:zoom="0.3537037"
-     inkscape:cx="325.13089"
-     inkscape:cy="920.26179"
+     inkscape:zoom="0.37545158"
+     inkscape:cx="540.68223"
+     inkscape:cy="960.17706"
      inkscape:window-width="1920"
      inkscape:window-height="941"
      inkscape:window-x="0"
@@ -46,15 +46,27 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient963">
+       id="linearGradient2233">
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1;"
+         style="stop-color:#55cdfc;stop-opacity:1;"
          offset="0"
-         id="stop959" />
+         id="stop2229" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:0;"
+         style="stop-color:#55cdfc;stop-opacity:0;"
          offset="1"
-         id="stop961" />
+         id="stop2231" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1540">
+      <stop
+         style="stop-color:#55cdfc;stop-opacity:1;"
+         offset="0"
+         id="stop1536" />
+      <stop
+         style="stop-color:#f7a8b8;stop-opacity:1"
+         offset="1"
+         id="stop1538" />
     </linearGradient>
     <filter
        style="color-interpolation-filters:sRGB"
@@ -596,16 +608,6 @@
          result="composite2"
          id="feComposite5405" />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient963"
-       id="linearGradient947"
-       x1="1357.9635"
-       y1="826.75085"
-       x2="1311.8242"
-       y2="900.69562"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(179.72395,-478.43062)" />
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
@@ -642,6 +644,24 @@
          result="composite2"
          id="feComposite1083" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1540"
+       id="linearGradient1542"
+       x1="6.1550455"
+       y1="10.355407"
+       x2="1918.191"
+       y2="1078.191"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2233"
+       id="linearGradient2235"
+       x1="1571.2952"
+       y1="295.64236"
+       x2="1463.3522"
+       y2="449.70105"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g897"
@@ -651,7 +671,7 @@
      inkscape:export-xdpi="95.999992"
      inkscape:export-ydpi="95.999992">
     <rect
-       style="fill:#333333;stroke:#f7a8b8;stroke-width:3.55417;stroke-opacity:0.0470588"
+       style="fill:url(#linearGradient1542);stroke:#f7a8b8;stroke-width:3.55417;stroke-opacity:0.0470588;fill-opacity:1"
        id="rect846"
        width="1916.3821"
        height="1076.3821"
@@ -666,7 +686,7 @@
        transform="matrix(1.5561614,0,0,1.5561614,-878.93546,302.08729)"
        style="stroke-width:0.982396">
       <path
-         style="fill:url(#linearGradient947);fill-opacity:1;stroke:none;stroke-width:1.05018;stroke-opacity:0.0470588;filter:url(#filter1085)"
+         style="fill:url(#linearGradient2235);fill-opacity:1;stroke:none;stroke-width:1.05018;stroke-opacity:0.0470588;filter:url(#filter1085)"
          id="path2355"
          sodipodi:type="arc"
          sodipodi:cx="1495.707"
@@ -682,7 +702,7 @@
          inkscape:export-xdpi="95.999992"
          inkscape:export-ydpi="95.999992" />
       <path
-         style="fill:#4d4d4d;stroke:none;stroke-width:1.05018;stroke-opacity:0.0470588;filter:url(#filter2883)"
+         style="fill:#f7a8b8;stroke:none;stroke-width:1.05018;stroke-opacity:0.0470588;filter:url(#filter2883);fill-opacity:1"
          id="path2791"
          sodipodi:type="arc"
          sodipodi:cx="1499.594"
@@ -696,7 +716,7 @@
          d="m 1474.9366,348.04786 a 57.168049,57.168049 0 0 1 75.8232,26.07711 57.168049,57.168049 0 0 1 -24.8301,76.24066 57.168049,57.168049 0 0 1 -76.6376,-23.57627 57.168049,57.168049 0 0 1 22.3162,-77.01401"
          transform="matrix(0.96593777,0,0,0.96593777,47.692168,10.224767)" />
       <path
-         style="fill:#666666;stroke:none;stroke-width:1.05018;stroke-opacity:0.0470588;filter:url(#filter3094)"
+         style="fill:#ffffff;stroke:none;stroke-width:1.05018;stroke-opacity:0.0470588;filter:url(#filter3094);fill-opacity:1"
          id="path2925"
          sodipodi:type="arc"
          sodipodi:cx="1496.1632"
@@ -711,7 +731,7 @@
     </g>
     <path
        id="path2086"
-       style="fill:#666666;stroke-width:0.983614;stroke-opacity:0.0470588;filter:url(#filter5407)"
+       style="fill:#f7a8b8;stroke-width:0.983614;stroke-opacity:0.0470588;filter:url(#filter5407);fill-opacity:1"
        inkscape:label="path2086"
        inkscape:transform-center-y="-2.878068e-05"
        d="M 1624.2582,1078.191 813.03358,609.83162 1.8089298,141.47029 V 1078.191 Z"
@@ -719,14 +739,14 @@
        transform="matrix(1,0,0,1.139929,0,-150.17147)" />
     <path
        id="path1357"
-       style="fill:#666666;stroke-width:0.93521;stroke-opacity:0.0470588;filter:url(#filter5395)"
+       style="fill:#ffffff;stroke-width:0.93521;stroke-opacity:0.0470588;filter:url(#filter5395);fill-opacity:1"
        inkscape:transform-center-y="2.6179304e-06"
        d="M 1081.637,1078.191 541.72297,766.47234 1.8089298,454.75164 V 1078.191 Z"
        inkscape:transform-center-x="-230.9126"
        transform="matrix(1.283052,0,0,0.98280114,-0.51202112,21.454146)" />
     <path
        id="path3037"
-       style="fill:#666666;stroke-width:0.80647;stroke-opacity:0.0470588;filter:url(#filter5383)"
+       style="fill:#55cdfc;stroke-width:0.80647;stroke-opacity:0.0470588;filter:url(#filter5383);fill-opacity:1"
        inkscape:transform-center-y="3.6023103e-06"
        d="M 600.34408,1078.191 301.07651,905.40979 1.8089298,732.62854 V 1078.191 Z"
        inkscape:transform-center-x="-189.93745"
