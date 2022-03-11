@@ -10,8 +10,8 @@
    sodipodi:docname="logo_shape.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    inkscape:export-filename="/media/tsingkwai/repo/code/TeaHouseLab/TeaHouseArtworks/CenterOS/2022/background/logo_shape.png"
-   inkscape:export-xdpi="95.999992"
-   inkscape:export-ydpi="95.999992"
+   inkscape:export-xdpi="255.95279"
+   inkscape:export-ydpi="255.95279"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -672,12 +672,15 @@
     </g>
     <path
        id="path2086"
-       style="fill:#666666;stroke-width:0.983614;stroke-opacity:0.0470588;filter:url(#filter5407)"
+       style="fill:#808080;stroke-width:0.983614;stroke-opacity:0.0470588;filter:url(#filter5407)"
        inkscape:label="path2086"
        inkscape:transform-center-y="-2.878068e-05"
        d="M 1624.2582,1078.191 813.03358,609.83162 1.8089298,141.47029 V 1078.191 Z"
        inkscape:transform-center-x="-270.40807"
-       transform="matrix(1,0,0,1.139929,0,-150.17147)" />
+       transform="matrix(1,0,0,1.139929,0,-150.17147)"
+       inkscape:export-filename="/media/tsingkwai/repo/code/TeaHouseLab/TeaHouseArtworks/CenterOS/2022/background/path2086.png"
+       inkscape:export-xdpi="95.999992"
+       inkscape:export-ydpi="95.999992" />
     <path
        id="path1357"
        style="fill:#666666;stroke-width:0.93521;stroke-opacity:0.0470588;filter:url(#filter5395)"
@@ -687,7 +690,7 @@
        transform="matrix(1.283052,0,0,0.98280114,-0.51202112,21.454146)" />
     <path
        id="path3037"
-       style="fill:#666666;stroke-width:0.80647;stroke-opacity:0.0470588;filter:url(#filter5383)"
+       style="fill:#4d4d4d;stroke-width:0.80647;stroke-opacity:0.0470588;filter:url(#filter5383)"
        inkscape:transform-center-y="3.6023103e-06"
        d="M 600.34408,1078.191 301.07651,905.40979 1.8089298,732.62854 V 1078.191 Z"
        inkscape:transform-center-x="-189.93745"
